@@ -1,0 +1,6 @@
+title,business_unit,final_score,recommendation,risk_level
+Asystent analizy korespondencji,Obsługa klienta,78,GO_WITH_GUARDRAILS,3
+Predykcja obciążenia infolinii,Contact Center,82,GO,2
+Wykrywanie anomalii w procesach,Kontrola wewnętrzna,69,GO_WITH_GUARDRAILS,4
+Automatyzacja raportów BI,Analityka biznesowa,88,GO,1
+Analiza sentymentu skarg,Obsługa klienta,55,REVIEW,3
