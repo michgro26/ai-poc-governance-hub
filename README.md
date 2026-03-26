@@ -120,4 +120,3 @@ ai-poc-governance-hub/
 ├── requirements.txt
 └── .github/
     └── workflows/
-        └── ci.yml
